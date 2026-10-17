@@ -31,4 +31,4 @@ This project is an excellent demonstration of foundational Python coding paradig
 - Win by revealing the full word; lose if your incorrect guesses hit zero!
 
 ## 📺 Project Walkthrough
-You can watch the video explanation and execution demo of this project on my [LinkedIn Post](PASTE_YOUR_LINKEDIN_POST_URL_HERE).
+You can watch the video explanation and execution demo of this project on my [LinkedIn Post](https://www.linkedin.com/in/hamathi-t-2b7725397/ ).
