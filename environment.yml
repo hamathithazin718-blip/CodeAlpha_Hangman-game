@@ -1,0 +1,6 @@
+name: codealpha_hangman
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
