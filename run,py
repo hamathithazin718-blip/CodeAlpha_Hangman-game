@@ -1,0 +1,9 @@
+#!/usr/bin/env python3
+"""
+Formal application orchestration launch script execution layer.
+"""
+from hangman_app import HangmanEngine
+
+if __name__ == "__main__":
+    app_instance = HangmanEngine()
+    app_instance.execute_session()
